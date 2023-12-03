@@ -38,7 +38,7 @@ void GameOver(int score)
         if (score >= 10)
         {
         sprintf(game_over[6], "#   CODE-REWARD:  #");
-        sprintf(game_over[7], "#     BEGINED     #");
+        sprintf(game_over[7], "#     BEGINEND     #");
         }
 
         for (i = 0; i < 10; i++)
